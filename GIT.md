@@ -81,4 +81,3 @@ Forking is especially useful in open-source development, where you want to exper
 
 ---
 
-This document provides a foundation for understanding version control concepts, GitHub features, and collaborative workflows.
